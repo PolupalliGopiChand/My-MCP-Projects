@@ -9,7 +9,7 @@ Welcome to the **MCP Projects Repository** – a compilation of powerful, real-w
 ## 🧠 What You'll Learn
 
 - Building no-code/low-code automations
-- Integrating with real-world APIs (LinkedIn, Gmail, Notion, Twilio, Indian Railways)
+- Integrating with real-world APIs (LinkedIn, Gmail, Notion, ElevenLabs, Twilio, Indian Railways)
 - Automating personalized communication at scale
 - Using AI for smart content creation (via Gemini, ElevenLabs)
 - Creating frontends with Streamlit
@@ -45,7 +45,6 @@ Automatically posts status updates and job progress to LinkedIn using MCP’s Li
   - Image uploads with Cloudinary
   - Scheduled auto-posts
 
----
 
 ### 📌 Project-2: Gmail Job Outreach Automation
 Sends personalized emails to recruiters with job details using Gmail API. Content is auto-generated using LinkedIn job scraping + Gemini AI.
@@ -56,7 +55,6 @@ Sends personalized emails to recruiters with job details using Gmail API. Conten
   - company and role-based targeting
   - Automated tracking system
 
----
 
 ### 📌 Project-3: Real-time Indian Railway Info
 Fetches live railway status and updates using the Indian Railways API, providing train arrival, departure, and schedule data.
@@ -67,7 +65,6 @@ Fetches live railway status and updates using the Indian Railways API, providing
   - Real-time query responses
   - Extendable to alerts or notifications
 
----
 
 ### 📌 Project-4: Voice Calling with latest Tech Updates
 Uses AI-generated tech news to deliver voice calls to users using ElevenLabs for voice synthesis and Twilio for calling.
@@ -78,7 +75,6 @@ Uses AI-generated tech news to deliver voice calls to users using ElevenLabs for
   - Voice conversion to human-like audio
   - Automatic call scheduling
 
----
 
 ### 📌 Project-5: AI-Powered Learning Path Generator
 Generates personalized tech learning paths based on user interests and skill levels using Gemini AI and delivers them via Notion.
