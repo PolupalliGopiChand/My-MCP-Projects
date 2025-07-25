@@ -55,10 +55,11 @@ Watch the full step-by-step tutorial here: [YouTube Tutorial](https://youtu.be/4
 ### 📌 Step 4: Prepare Post Prompt in Cursor IDE
 Open the **MCP chat panel** and write your prompt:
 
-> Create an image post on LinkedIn with the following text: <br>
-{Your post text} <br>
+```
+Create an image post on LinkedIn with the following text:
+{Your post text}
 Image link: {Image link}
-
+```
 ---
 
 ### 📌 Step 5: Send Prompt to MCP
