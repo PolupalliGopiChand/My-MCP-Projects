@@ -91,4 +91,4 @@ Generates personalized tech learning paths based on user interests and skill lev
 
 ## 📺 Video Demonstration
 
-[![Watch the video](https://www.youtube.com/watch?v=31Km76ehiuA)]
+[![Watch the video](https://www.youtube.com/watch?v=31Km76ehiuA)](https://www.youtube.com/watch?v=31Km76ehiuA)
