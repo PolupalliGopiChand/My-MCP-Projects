@@ -2,7 +2,7 @@
 
 Welcome to the **MCP Projects Repository** – a compilation of powerful, real-world automation mini-projects developed as part of the **MCP Mega Workshop**. These projects are built using **Cursor IDE**, **Pipedream MCP**, **AI APIs**, and advanced integration tools like **ElevenLabs**, **Twilio**, **Gmail**, **LinkedIn**, and **Notion**, reflecting the cutting-edge potential of automation in the digital era.
 
-> 🔗 MCP (Multi-Channel Platform) by Pipedream allows developers to build intelligent apps and workflows using plug-and-play components and APIs, revolutionizing productivity, communication, and personalization.
+> 🔗 MCP (Model Context Protocol) by Pipedream allows developers to build intelligent apps and workflows using plug-and-play components and APIs, revolutionizing productivity, communication, and personalization.
 
 ---
 
